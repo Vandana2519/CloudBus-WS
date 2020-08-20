@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="2-FlightSearch-Service"/>
+<aop-project name="Config-Client"/>
+<aop-project name="3-FlightBooking-Service"/>
+<aop-project name="4-Checkin-Service"/>
+<aop-project name="Config-Server"/>
+<aop-project name="SpringBoot-Admin"/>
+<aop-project name="1-Fares-Service"/>
+</aop-reference-model>
